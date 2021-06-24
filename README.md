@@ -1,6 +1,6 @@
 # Hyrule jobs
 
-My first project with Vue 3 and Typescript.
+My first project using Vue 3 with Typescript.
 
 Done following The Net Ninja "Vue 3 with TypeScript Tutorial".
 
